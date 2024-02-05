@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonnathan Portilla</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
-
+- 🔭 I’m currently working like a frelance.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -102,4 +102,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
