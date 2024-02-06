@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jonnathan Portilla</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+<p align="left">
+  Systems engineer with 4 years of experience specializing in software development, including design,
+  installation, testing, and maintenance of software systems. Proficient in development environments using
+  Python and Git-GitHub to standardize and customize implementations, and enhance UI with JavaScript (React).
+</p>
+
 - 🔭 I’m currently working like a frelance.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
