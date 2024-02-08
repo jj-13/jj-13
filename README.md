@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working like a frelance.
 - work done:
-  - Make a web application that allows you to calculate the amount of co2 that a person generates and give recommendations using AI to reduce these emissions. For this development I used [flask, ionic, api bard, chatgpt]
+  - Web application that allows you to calculate the amount of co2 that a person generates and give recommendations using AI to reduce these emissions. For this development I used [flask, ionic, api bard, chatgpt, Postgresql], time used 1 month.
+  - Web application that allows login using facial recognition, as a second authentication factor. For this development I used [django REST framework, Opencv, Reactjs, Postgresql], time used 6 months.
+  - web application to record and manage arrests For this development I used [django, Reactjs, Postgresql], time used 10 months.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
