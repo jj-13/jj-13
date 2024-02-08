@@ -6,6 +6,8 @@
 </p>
 
 - 🔭 I’m currently working like a frelance.
+- work done:
+  - Make a web application that allows you to calculate the amount of co2 that a person generates and give recommendations using AI to reduce these emissions. For this development I used [flask, ionic, api bard, chatgpt]
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
