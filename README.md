@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jonnathan Portilla</h1>
 <p align="left">
-  Systems engineer with 4 years of experience specializing in software development, including design,
-  installation, testing, and maintenance of software systems. Proficient in development environments using
-  Python and Git-GitHub to standardize and customize implementations, and enhance UI with JavaScript (React).
+  Systems engineer with 4 years of experience, focused on software development, design, installation,
+  testing, and maintenance. I possess proficient skills in development environments using Python and
+  Git; I use GitHub to standardize and customize implementations. For frontend development, I employ
+  JavaScript (React) along with CSS3, Bootstrap, or Tailwind. I have experience in Docker management
+  and the implementation of CI/CD using Jenkins, GitHub Actions workflows, or GitLab.
 </p>
 
 - 🔭 I’m currently working like a frelance.
 - Some work done:
-  - Web application that allows you to calculate the amount of co2 that a person generates and give recommendations using AI to reduce these emissions. For this development I used [flask, ionic, api bard, chatgpt, Postgresql], time used 1 month.
-  - Web application that allows login using facial recognition, as a second authentication factor. For this development I used [django REST framework, Opencv, Reactjs, Postgresql], time used 6 months.
-  - web application to record and manage arrests For this development I used [django, Reactjs, Postgresql], time used 10 months.
+  - Web application that allows you to calculate the amount of co2 that a person generates and give recommendations using AI to reduce these emissions, using chatgpt's api.
+  - Web application that allows login using facial recognition, as a second authentication factor.
+  - Web application to manage criminal records and make facial recognition.
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
