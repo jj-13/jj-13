@@ -109,17 +109,10 @@
   
 </p>
 
-| Tables | Python libraries | Azure services | AZD? | AI? |
-|:------------------------------|:--------------------------|:----------------------------------------------------|:---:|:---:|
-| [issue-triager-agent](#) | Langgraph | OpenAI | ✅ | ✅ |
-| [personal-linkedin-agent](#) | PydanticAI, Playwright | OpenAI | ✅ | ✅ |
-| [postgresql-extension-playground](#) | None | PostgreSQL Flexible Server | ✅ | ✅ |
-| [secure-ai-app-build-demo](#) | OpenAI | Azure OpenAI, Container Apps, Front Door, VNet | ✅ | ✅ |
-| [python-ai-agent-frameworks-demos](#) | Many! | Azure AI | ✅ | ✅ |
-| [deepseek-python](#) | Azure AI, Quart | Container Apps, Azure AI | ✅ | ✅ |
-| [rag-postgres-openai-python](#) | OpenAI, FastAPI, pgvector | Container Apps, Azure OpenAI, PostgreSQL Flexible Server | ✅ | ✅ |
-| [azure-search-openai-demo](#) | OpenAI, Quart | App Service, Azure AI Search | ✅ | ✅ |
-
+| Projects | Languages | Links | AI? |
+|:------------------------------|:--------------------------|:----------------------------------------------------|:---:|
+| [Platafomr](#) | Python, Reactjs, Nextjs | https://businesssmartdesk.com/ | ✅ |
+| [Web Page](#) | Python, Reactjs, Nextjs | https://businesssmartdesk.com/ | - |
 
 
 <!--
