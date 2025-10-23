@@ -113,7 +113,7 @@
 
 | # | Projects | Tools | Links | AI? |
 |:---:|:--------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------|:---:|
-| 1 | [Platform](#) | Python, Reactjs, Nextjs, Tailwind, Pytorch  | https://businesssmartdesk.com/login | ✅ |
+| 1 | [Platform](#) | Python, Reactjs, Nextjs, Tailwind, Pytorch, n8n  | https://businesssmartdesk.com/login | ✅ |
 | 2 | [Web Page](#) | Python, Reactjs, Nextjs, Tailwind | https://businesssmartdesk.com/ | - |
 
 
