@@ -109,10 +109,12 @@
   
 </p>
 
-| Projects | Languages | Links | AI? |
-|:-----------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------|:---:|
-| [Platafomr](#) | Python, Reactjs, Nextjs | https://businesssmartdesk.com/ | ✅ |
-| [Web Page](#) | Python, Reactjs, Nextjs | https://businesssmartdesk.com/ | - |
+<h3 align="left">Last Projects:</h3>
+
+| Projects | Tools | Links | AI? |
+|:--------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------|:---:|
+| [Platform](#) | Python, Reactjs, Nextjs, Tailwind, Pytorch  | https://businesssmartdesk.com/login | ✅ |
+| [Web Page](#) | Python, Reactjs, Nextjs, Tailwind | https://businesssmartdesk.com/ | - |
 
 
 <!--
