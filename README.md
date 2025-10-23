@@ -109,6 +109,13 @@
   
 </p>
 
+| Proyects | Languages | Link | AI? |
+|---------|------------------|----------------|------|-----|
+| [Platafomr](#) | Python, Reactjs, Nextjs | https://businesssmartdesk.com/ | ✅ |
+| [Web Page](#) | Python, Reactjs, Nextjs | https://businesssmartdesk.com/ | - |
+
+
+
 <!--
 ### Hi there 👋
 **jj-13/jj-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
