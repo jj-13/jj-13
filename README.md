@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonnathan Portilla</h1>
 <p align="left">
   Systems engineer with 4 years of experience, focused on software development, design, installation,
-  testing, and maintenance. I possess proficient skills in development environments using Python and
+  testing, and maintenance. I possess proficient skills in development environments using Python with frameworks: Django, FastApi, Flask and
   Git; I use GitHub to standardize and customize implementations. For frontend development, I employ
   JavaScript (React) along with CSS3, Bootstrap, or Tailwind. I have experience in Docker management
   and the implementation of CI/CD using Jenkins, GitHub Actions workflows, or GitLab.
