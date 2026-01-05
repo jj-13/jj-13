@@ -107,7 +107,7 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tiangolo_fastapi/fastapi-1.svg" alt="fastapi" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" width="40" height="40"/> 
   </a> 
     
 </p>
