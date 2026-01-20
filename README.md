@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jonnathan Portilla</h1>
 <p align="left">
-  Systems engineer with 4 years of experience, focused on software development, design, installation,
-  testing, and maintenance. I possess proficient skills in development environments using Python with frameworks: Django, FastApi, Flask and
-  Git; I use GitHub to standardize and customize implementations. For frontend development, I employ
-  JavaScript (React) along with CSS3, Bootstrap, or Tailwind. I have experience in Docker management
-  and the implementation of CI/CD using Jenkins, GitHub Actions workflows, or GitLab.
-  AI tools: n8n
-  MCP: OpenCode, ClaudeCode, Testsprite
+    Systems Engineer with over 5 years of experience specializing in software development, including system design, installation, testing, and maintenance. Strong proficiency in Python-based development environments, working with frameworks such as Django, FastAPI, and Flask, as well as Git for version control and collaboration through GitHub, ensuring standardized and customized implementations.
+  
+  Experienced in frontend development using JavaScript (React), complemented by CSS3, Bootstrap, and Tailwind CSS to build responsive and user-friendly interfaces.
+  
+  Hands-on experience with Docker for containerization and the implementation of CI/CD pipelines using Jenkins, GitHub Actions, and GitLab.
+  
+  Familiar with AI-driven automation tools such as n8n, and MCP tools including OpenCode, ClaudeCode, and Testsprite.
 </p>
 
 - 🔭 I’m currently working like a frelance.
