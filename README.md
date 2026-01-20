@@ -2,7 +2,7 @@
 <p align="left">
     Systems Engineer with over 5 years of experience specializing in software development, including system design, installation, testing, and maintenance. Strong proficiency in Python-based development environments, working with frameworks such as Django, FastAPI, and Flask, as well as Git for version control and collaboration through GitHub, ensuring standardized and customized implementations.
   
-  Experienced in frontend development using JavaScript (React), complemented by CSS3, Bootstrap, and Tailwind CSS to build responsive and user-friendly interfaces.
+  Experienced in frontend development using JavaScript (React, Next, Astro), complemented by CSS3, Bootstrap, and Tailwind CSS to build responsive and user-friendly interfaces.
   
   Hands-on experience with Docker for containerization and the implementation of CI/CD pipelines using Jenkins, GitHub Actions, and GitLab.
   
