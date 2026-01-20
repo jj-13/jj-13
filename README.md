@@ -5,6 +5,8 @@
   Git; I use GitHub to standardize and customize implementations. For frontend development, I employ
   JavaScript (React) along with CSS3, Bootstrap, or Tailwind. I have experience in Docker management
   and the implementation of CI/CD using Jenkins, GitHub Actions workflows, or GitLab.
+  AI tools: n8n
+  MCP: OpenCode, ClaudeCode, Testsprite
 </p>
 
 - 🔭 I’m currently working like a frelance.
@@ -107,7 +109,10 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" width="80" height="80"/> 
+  </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://commons.wikimedia.org/wiki/File:N8n-logo-new.svg#/media/File:N8n-logo-new.svg" alt="n8n" width="40" height="40"/> 
   </a> 
     
 </p>
