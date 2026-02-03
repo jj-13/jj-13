@@ -126,6 +126,7 @@
 |:---:|:--------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------|:---:|
 | 1 | [Platform](#) | Python, Reactjs, Nextjs, Tailwind, Pytorch, n8n  | https://businesssmartdesk.com/login | ✅ |
 | 2 | [Web Page](#) | Python, Reactjs, Nextjs, Tailwind | https://businesssmartdesk.com/ | - |
+| 2 | [Remote Desktop Environments](#) | Python, Reactjs, Nextjs, Tailwind | - | - |
 
 
 <!--
