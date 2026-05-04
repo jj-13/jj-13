@@ -64,6 +64,18 @@ Systems Engineer with **5+ years of experience** in software development, coveri
   <img src="https://img.shields.io/badge/Selenium-Testing-green?style=flat-square" />
 </p>
 
+## 🛠️ Additional Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,heroku,rust" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCode-MCP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/ClaudeCode-MCP-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Testsprite-MCP-green?style=flat-square" />
+</p>
+
 ---
 
 ## 🧩 Featured Projects
@@ -89,19 +101,6 @@ Systems Engineer with **5+ years of experience** in software development, coveri
 
 ---
 
-## 🛠️ Additional Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,postman,heroku,rust" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCode-MCP-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/ClaudeCode-MCP-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Testsprite-MCP-green?style=flat-square" />
-</p>
-
----
 <!--
 ## 📈 GitHub Stats
 
