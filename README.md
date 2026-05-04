@@ -102,7 +102,7 @@ Systems Engineer with **5+ years of experience** in software development, coveri
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -111,7 +111,7 @@ Systems Engineer with **5+ years of experience** in software development, coveri
 </p>
 
 ---
-
+-->
 ## 📫 Contact
 
 - 🌐 Portfolio: https://businesssmartdesk.com  
