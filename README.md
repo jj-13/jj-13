@@ -1,4 +1,130 @@
 <h1 align="center">Hi 👋, I'm Jonnathan Portilla</h1>
+<h3 align="center">Systems Engineer | Full Stack Developer | AI Integrations</h3>
+
+<p align="center">
+  <a href="https://businesssmartdesk.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelancer-Available-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+Systems Engineer with **5+ years of experience** in software development, covering:
+
+- System design, testing, deployment, and maintenance  
+- Backend development with **Python ecosystems**  
+- Frontend development with modern JavaScript frameworks  
+- DevOps practices including **Docker & CI/CD pipelines**  
+- AI integrations and automation tools  
+
+---
+
+## 💼 Current Status
+
+- 🔭 Working as a **Freelance Developer**
+- 🤖 Focused on **AI-powered applications & automation**
+
+---
+
+## 🧠 Tech Stack
+
+### 🐍 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,php" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,bootstrap,html,css" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,bash,nginx" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+### 🤖 AI / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-Automation-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Selenium-Testing-green?style=flat-square" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+| 🚀 Project | 🛠️ Stack | 🌐 Link | 🤖 AI |
+|-----------|----------|--------|------|
+| CO2 Emissions Platform | Python, React, Next, Tailwind, PyTorch, n8n | https://businesssmartdesk.com/login | ✅ |
+| Business Web Platform | Python, React, Next, Tailwind, OpenRoute | https://businesssmartdesk.com/ | ✅ |
+| Remote Desktop Environments | Python, Docker, React, Next | - | - |
+
+---
+
+## 🔬 Notable Work
+
+- 🌱 **AI CO2 Calculator Platform**  
+  Calculates carbon footprint and provides AI-based recommendations using ChatGPT API  
+
+- 👁️ **Facial Recognition Authentication System**  
+  Second-factor authentication using computer vision  
+
+- 🕵️ **Criminal Record Management System**  
+  Integrated facial recognition for identification  
+
+---
+
+## 🛠️ Additional Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,heroku,rust" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCode-MCP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/ClaudeCode-MCP-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Testsprite-MCP-green?style=flat-square" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: https://businesssmartdesk.com  
+- 💼 Open for freelance & collaborations  
+
+---
+
+
+
+
+
+<!--
+<h1 align="center">Hi 👋, I'm Jonnathan Portilla</h1>
 <p align="left">
     Systems Engineer with over 5 years of experience specializing in software development, including system design, installation, testing, and maintenance. Strong proficiency in Python-based development environments, working with frameworks such as Django, FastAPI, and Flask, as well as Git for version control and collaboration through GitHub, ensuring standardized and customized implementations.
   
@@ -132,7 +258,7 @@
 | 3 | [Remote Desktop Environments](#) | Python, Docker, Reactjs, Nextjs, Tailwind | - | - |
 
 
-<!--
+
 ### Hi there 👋
 **jj-13/jj-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
