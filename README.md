@@ -82,7 +82,7 @@ Systems Engineer with **5+ years of experience** in software development, coveri
 
 | 🚀 Project | 🛠️ Stack | 🌐 Link | 🤖 AI |
 |-----------|----------|--------|------|
-| CO2 Emissions Platform | Python, React, Next, Tailwind, PyTorch, n8n | https://businesssmartdesk.com/login | ✅ |
+| CO2 Emissions Platform | Python, React, Next, Tailwind, PyTorch, n8n | - | ✅ |
 | Business Web Platform | Python, React, Next, Tailwind, OpenRoute | https://businesssmartdesk.com/ | ✅ |
 | Remote Desktop Environments | Python, Docker, React, Next | - | - |
 
