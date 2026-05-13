@@ -114,7 +114,7 @@ Systems Engineer with **5+ years of experience** in software development, coveri
 ## 📫 Contact
 
 - 🌐 Portfolio: https://businesssmartdesk.com  
-- 💼 Open for freelance & collaborations  
+- 💼 Open for freelance & collaborations. 
 
 ---
 
