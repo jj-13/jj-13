@@ -168,20 +168,16 @@ TensorFlow
 <img src="https://skillicons.dev/icons?i=opencv" /><br>
 OpenCV
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/n8n-Automation-red?style=flat-square" /><br>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat-square" /><br>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square" /><br>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Selenium-Testing-green?style=flat-square" /><br>
-</td>
+
 </tr>
 </table>
+
+<p> 
+  <img src="https://img.shields.io/badge/n8n-Automation-red?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Selenium-Testing-green?style=flat-square" /> 
+</p>
 
 ## 🛠️ Additional Tools
 
