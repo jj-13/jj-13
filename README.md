@@ -199,17 +199,14 @@ Heroku
 <img src="https://skillicons.dev/icons?i=rust" /><br>
 Rust
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/OpenCode-MCP-blue?style=flat-square" /><br>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/ClaudeCode-MCP-purple?style=flat-square" /><br>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Testsprite-MCP-green?style=flat-square" /><br>
-</td>
 </tr>
 </table>
+
+<p> 
+  <img src="https://img.shields.io/badge/OpenCode-MCP-blue?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/ClaudeCode-MCP-purple?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Testsprite-MCP-green?style=flat-square" /> 
+</p>
 
 ---
 
