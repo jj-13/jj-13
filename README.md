@@ -170,19 +170,15 @@ OpenCV
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/n8n-Automation-red?style=flat-square" /><br>
-n8n
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat-square" /><br>
-Pandas
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square" /><br>
-Scikit-Learn
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Selenium-Testing-green?style=flat-square" /><br>
-Selenium
 </td>
 </tr>
 </table>
@@ -209,15 +205,12 @@ Rust
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/OpenCode-MCP-blue?style=flat-square" /><br>
-OpenCode MCP
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/ClaudeCode-MCP-purple?style=flat-square" /><br>
-ClaudeCode MCP
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Testsprite-MCP-green?style=flat-square" /><br>
-Testsprite MCP
 </td>
 </tr>
 </table>
