@@ -189,15 +189,38 @@ Selenium
 
 ## 🛠️ Additional Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,postman,heroku,rust" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCode-MCP-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/ClaudeCode-MCP-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Testsprite-MCP-green?style=flat-square" />
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" /><br>
+Figma
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" /><br>
+Postman
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=heroku" /><br>
+Heroku
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=rust" /><br>
+Rust
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/OpenCode-MCP-blue?style=flat-square" /><br>
+OpenCode MCP
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/ClaudeCode-MCP-purple?style=flat-square" /><br>
+ClaudeCode MCP
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Testsprite-MCP-green?style=flat-square" /><br>
+Testsprite MCP
+</td>
+</tr>
+</table>
 
 ---
 
