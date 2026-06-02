@@ -33,36 +33,159 @@ Systems Engineer with **5+ years of experience** in software development, coveri
 ## 🧠 Tech Stack
 
 ### 🐍 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,php" />
-</p>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" /><br>
+Python
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" /><br>
+Django
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" /><br>
+FastAPI
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" /><br>
+Flask
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" /><br>
+PHP
+</td>
+</tr>
+</table>
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,bootstrap,html,css" />
-</p>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" /><br>
+JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" /><br>
+TypeScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" /><br>
+React
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" /><br>
+Next.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=astro" /><br>
+Astro
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" /><br>
+Tailwind
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" /><br>
+Bootstrap
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" /><br>
+HTML5
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" /><br>
+CSS3
+</td>
+</tr>
+</table>
 
 ### ⚙️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,bash,nginx" />
-</p>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" /><br>
+Docker
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jenkins" /><br>
+Jenkins
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" /><br>
+Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" /><br>
+GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" /><br>
+Linux
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" /><br>
+Bash
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nginx" /><br>
+Nginx
+</td>
+</tr>
+</table>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
-</p>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" /><br>
+PostgreSQL
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" /><br>
+MySQL
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" /><br>
+Firebase
+</td>
+</tr>
+</table>
 
 ### 🤖 AI / Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-Automation-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Selenium-Testing-green?style=flat-square" />
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" /><br>
+TensorFlow
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=opencv" /><br>
+OpenCV
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/n8n-Automation-red?style=flat-square" /><br>
+n8n
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat-square" /><br>
+Pandas
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square" /><br>
+Scikit-Learn
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Selenium-Testing-green?style=flat-square" /><br>
+Selenium
+</td>
+</tr>
+</table>
 
 ## 🛠️ Additional Tools
 
