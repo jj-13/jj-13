@@ -56,6 +56,10 @@ Flask
 <img src="https://skillicons.dev/icons?i=php" /><br>
 PHP
 </td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=rust" /><br>
+Rust
+</td>
 </tr>
 </table>
 
@@ -194,10 +198,6 @@ Postman
 <td align="center">
 <img src="https://skillicons.dev/icons?i=heroku" /><br>
 Heroku
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=rust" /><br>
-Rust
 </td>
 </tr>
 </table>
