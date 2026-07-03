@@ -57,6 +57,10 @@ Flask
 PHP
 </td>
 <td align="center">
+<img src="https://skillicons.dev/icons?i=laravel" /><br>
+Laravel
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=rust" /><br>
 Rust
 </td>
