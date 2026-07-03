@@ -161,6 +161,14 @@ MySQL
 <img src="https://skillicons.dev/icons?i=firebase" /><br>
 Firebase
 </td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongo" /><br>
+Mongo db
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" /><br>
+Redis
+</td>
 </tr>
 </table>
 
