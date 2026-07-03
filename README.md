@@ -163,7 +163,7 @@ Firebase
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mongo" /><br>
-Mongo db
+MongoDB
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=redis" /><br>
